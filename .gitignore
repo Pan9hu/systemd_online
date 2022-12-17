@@ -805,3 +805,5 @@ cython_debug/
 
 venv/
 .idea/
+static/
+*.pyc
